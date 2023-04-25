@@ -1,4 +1,3 @@
-# About-me
 # 💫 About Me:
 Software QA Engineer, working on my projects.
 
